@@ -13,3 +13,9 @@ str1 = "Hello"
 str2 = "Word"
 
 print(str1 + str2)
+
+# while loop
+num = 0
+while num < 10:
+    num = num + 1
+    print("", num)
